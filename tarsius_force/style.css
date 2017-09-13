@@ -1,0 +1,18 @@
+@font-face{
+	font-family: "web-Raleway";
+	src:url('..fonts/Releway-Reguler.eot');
+	src:url('..fonts/Releway-Reguler.eot?#ieflix')format("embedded-opentype"),
+	url("../fonts/Releway-Reguler.woff") format("woff"),
+	url("../fonts/Releway-Reguler.ttf") format("truetype"),
+	url("../fonts/Releway-Reguler.svg#web") format("wsvg"),
+	font-style:normal;font-weight: normal;
+}
+@font-face{
+	font-family: "web-Raleway-Bold";
+	src:url('..fonts/Releway-Bold.eot');
+	src:url('..fonts/Releway-Bold.eot?#ieflix')format("embedded-opentype"),
+	url("../fonts/Releway-Bold.woff") format("woff"),
+	url("../fonts/Releway-Bold.ttf") format("truetype"),
+	url("../fonts/Releway--Bold.svg#web") format("wsvg"),
+	font-style:normal;font-weight: normal;
+}
